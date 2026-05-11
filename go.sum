@@ -284,8 +284,8 @@ github.com/tklauser/go-sysconf v0.3.16 h1:frioLaCQSsF5Cy1jgRBrzr6t502KIIwQ0MArYI
 github.com/tklauser/go-sysconf v0.3.16/go.mod h1:/qNL9xxDhc7tx3HSRsLWNnuzbVfh3e7gh/BmM179nYI=
 github.com/tklauser/numcpus v0.11.0 h1:nSTwhKH5e1dMNsCdVBukSZrURJRoHbSEQjdEbY+9RXw=
 github.com/tklauser/numcpus v0.11.0/go.mod h1:z+LwcLq54uWZTX0u/bGobaV34u6V7KNlTZejzM6/3MQ=
-github.com/wchen99998/torrent v1.54.1 h1:hOqCRLM8jxWeFXPfpa0YgrsUeyZR/MgO46Yojs73Ago=
-github.com/wchen99998/torrent v1.54.1/go.mod h1:ZEY2uvBGQwuiJiS6fFrrFmpgC6HeoRpFMF9tR7A8pY4=
+github.com/wchen99998/torrent v1.54.2 h1:7021Xl5KkAcRzoaQi93QEG3ceoA3i6tIStrb9bdxsIc=
+github.com/wchen99998/torrent v1.54.2/go.mod h1:7DqvTC01CVdK3k4fX+gQ9vGDPJzPJ4D6fdAiQffutpQ=
 github.com/willf/bitset v1.1.9/go.mod h1:RjeCKbqT1RxIR/KWY6phxZiaY1IyutSBfGjNPySAYV4=
 github.com/willf/bitset v1.1.10/go.mod h1:RjeCKbqT1RxIR/KWY6phxZiaY1IyutSBfGjNPySAYV4=
 github.com/yusufpapurcu/wmi v1.2.4 h1:zFUKzehAFReQwLys1b/iSMl+JQGSCSjtVqQn9bBrPo0=

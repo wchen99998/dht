@@ -26,7 +26,7 @@ require (
 	github.com/multiformats/go-base36 v0.1.0
 	github.com/rs/dnscache v0.0.0-20211102005908-e0241e321417
 	github.com/stretchr/testify v1.11.1
-	github.com/wchen99998/torrent v1.54.1
+	github.com/wchen99998/torrent v1.54.2
 	golang.org/x/exp v0.0.0-20251113190631-e25ba8c21ef6
 	golang.org/x/sys v0.38.0
 	golang.org/x/time v0.14.0
