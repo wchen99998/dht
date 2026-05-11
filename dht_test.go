@@ -13,12 +13,12 @@ import (
 	"github.com/anacrolix/log"
 	"github.com/anacrolix/missinggo/inproc"
 	"github.com/anacrolix/sync"
-	"github.com/anacrolix/torrent/bencode"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/wchen99998/torrent/bencode"
 
-	"github.com/anacrolix/dht/v2/int160"
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/wchen99998/dht/v2/int160"
+	"github.com/wchen99998/dht/v2/krpc"
 )
 
 func TestSetNilBigInt(t *testing.T) {

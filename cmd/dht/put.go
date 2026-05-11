@@ -9,12 +9,12 @@ import (
 
 	"github.com/anacrolix/args/targets"
 	g "github.com/anacrolix/generics"
-	"github.com/anacrolix/torrent/bencode"
+	"github.com/wchen99998/torrent/bencode"
 
-	"github.com/anacrolix/dht/v2"
-	"github.com/anacrolix/dht/v2/bep44"
-	"github.com/anacrolix/dht/v2/exts/getput"
-	"github.com/anacrolix/dht/v2/traversal"
+	"github.com/wchen99998/dht/v2"
+	"github.com/wchen99998/dht/v2/bep44"
+	"github.com/wchen99998/dht/v2/exts/getput"
+	"github.com/wchen99998/dht/v2/traversal"
 )
 
 type PutCmd struct {

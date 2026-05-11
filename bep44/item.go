@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/anacrolix/torrent/bencode"
+	"github.com/wchen99998/torrent/bencode"
 )
 
 var Empty32ByteArray [32]byte

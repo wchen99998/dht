@@ -10,8 +10,8 @@ import (
 
 	"github.com/anacrolix/multiless"
 
-	"github.com/anacrolix/dht/v2/int160"
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/wchen99998/dht/v2/int160"
+	"github.com/wchen99998/dht/v2/krpc"
 )
 
 type InMemory struct {

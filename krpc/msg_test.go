@@ -9,10 +9,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/anacrolix/torrent/bencode"
 	qt "github.com/frankban/quicktest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/wchen99998/torrent/bencode"
 )
 
 func testMarshalUnmarshalMsg(t *testing.T, m Msg, expected string) {

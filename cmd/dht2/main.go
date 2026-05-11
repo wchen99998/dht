@@ -10,7 +10,7 @@ import (
 	app "github.com/anacrolix/gostdapp"
 	"github.com/davecgh/go-spew/spew"
 
-	"github.com/anacrolix/dht/v2"
+	"github.com/wchen99998/dht/v2"
 )
 
 func main() {

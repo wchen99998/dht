@@ -6,10 +6,10 @@ import (
 	"testing"
 
 	"github.com/anacrolix/log"
-	"github.com/anacrolix/torrent/bencode"
 	"github.com/stretchr/testify/require"
+	"github.com/wchen99998/torrent/bencode"
 
-	"github.com/anacrolix/dht/v2/bep44"
+	"github.com/wchen99998/dht/v2/bep44"
 )
 
 func TestPutGet(t *testing.T) {

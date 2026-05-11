@@ -8,7 +8,7 @@ import (
 	"github.com/bradfitz/iter"
 	qt "github.com/frankban/quicktest"
 
-	"github.com/anacrolix/dht/v2/krpc"
+	"github.com/wchen99998/dht/v2/krpc"
 )
 
 func TestNoIdFarther(tb *testing.T) {

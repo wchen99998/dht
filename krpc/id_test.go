@@ -3,8 +3,8 @@ package krpc
 import (
 	"testing"
 
-	"github.com/anacrolix/torrent/bencode"
 	"github.com/stretchr/testify/assert"
+	"github.com/wchen99998/torrent/bencode"
 )
 
 func TestMarshalID(t *testing.T) {

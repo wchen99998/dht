@@ -3,7 +3,7 @@ package krpc
 import (
 	"fmt"
 
-	"github.com/anacrolix/torrent/bencode"
+	"github.com/wchen99998/torrent/bencode"
 )
 
 const (

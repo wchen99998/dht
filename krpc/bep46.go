@@ -1,7 +1,7 @@
 package krpc
 
 import (
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/wchen99998/torrent/metainfo"
 )
 
 type Bep46Payload struct {

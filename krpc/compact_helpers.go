@@ -6,7 +6,7 @@ import (
 	"reflect"
 
 	"github.com/anacrolix/missinggo/slices"
-	"github.com/anacrolix/torrent/bencode"
+	"github.com/wchen99998/torrent/bencode"
 )
 
 func unmarshalBencodedBinary(u encoding.BinaryUnmarshaler, b []byte) (err error) {

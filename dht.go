@@ -11,14 +11,14 @@ import (
 
 	"github.com/anacrolix/log"
 	"github.com/anacrolix/missinggo/v2"
-	"github.com/anacrolix/torrent/iplist"
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/wchen99998/torrent/iplist"
+	"github.com/wchen99998/torrent/metainfo"
 	"golang.org/x/time/rate"
 
-	"github.com/anacrolix/dht/v2/bep44"
-	"github.com/anacrolix/dht/v2/krpc"
-	peer_store "github.com/anacrolix/dht/v2/peer-store"
-	"github.com/anacrolix/dht/v2/transactions"
+	"github.com/wchen99998/dht/v2/bep44"
+	"github.com/wchen99998/dht/v2/krpc"
+	peer_store "github.com/wchen99998/dht/v2/peer-store"
+	"github.com/wchen99998/dht/v2/transactions"
 )
 
 func defaultQueryResendDelay() time.Duration {
